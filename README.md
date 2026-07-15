@@ -87,3 +87,17 @@ This project was developed during my Software Developer Internship at DeBox Glob
 ## Author
 
 **Syed Madiha Husain**
+
+## 📸 Project Screenshots
+
+### Search Page
+<img width="449" height="221" alt="image" src="https://github.com/user-attachments/assets/8145b4cf-0fe1-48ab-b9d1-bfc42f03c20b" />
+
+### Hotel Search Results
+<img width="499" height="670" alt="image" src="https://github.com/user-attachments/assets/2526f49e-2c7d-4a75-9fed-a180e46e1fd6" />
+
+### Excel Export
+<img width="773" height="312" alt="image" src="https://github.com/user-attachments/assets/5c9af183-1c7d-4efc-a866-e4f52f30dafd" />
+
+
+
